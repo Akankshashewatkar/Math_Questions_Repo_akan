@@ -19,4 +19,4 @@ The questions are formatted according to the required assessment structure.
 - The `.md` file is optimized for GitHub repositories.  
 
 ---
-Generated as part of **Math Question Generation Task**.
+
